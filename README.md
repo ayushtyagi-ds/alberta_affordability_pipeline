@@ -1,4 +1,4 @@
-# alberta_affordability_pipeline
+# Alberta_affordability_pipeline
 
 **Author:** Ayush Tyagi  
 **Course:** Capstone Project (Fall 2025)  
