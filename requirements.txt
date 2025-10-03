@@ -1,0 +1,21 @@
+# Core Data Science Libraries
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Data Sourcing
+yfinance
+requests
+
+# Development and Dashboarding
+jupyterlab
+streamlit
+
+# PySpark and Delta Lake for Databricks
+# We list them here for completeness, though Databricks manages their installation.
+pyspark
+delta-spark

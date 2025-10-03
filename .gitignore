@@ -1,0 +1,36 @@
+# Python Virtual Environments
+venv/
+.venv/
+env/
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE and editor folders
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+*.env
+*.ini
+
+# Large data files (we will not commit raw data to Git)
+# For now, we will commit the small StatCan CSVs, but this is a reminder
+# for larger files in the future.
+data/raw/*.csv
+data/processed/*.csv
+
+# Optional: Ignore generated reports or figures
+# reports/
+# figures/
